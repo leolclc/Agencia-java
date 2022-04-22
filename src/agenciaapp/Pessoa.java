@@ -18,7 +18,7 @@ public class Pessoa {
     private String nome, grauAcademico, instituicao;
     private char sexo;
 
-    public Pessoa(int codigo, int cpf, int rg, Date datanasc, String nome, String grauAcademico, String instuicao) {
+    public Pessoa(int codigo, int cpf, int rg, Date datanasc, String nome, String grauAcademico, String instituicao) {
 
     }
 
